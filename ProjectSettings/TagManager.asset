@@ -13,10 +13,10 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Player
+  - Weapons
+  - Foreground
   - 
   - 
   - 
@@ -41,6 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: background
+  - name: Background
     uniqueID: 2584948851
+    locked: 0
+  - name: Player
+    uniqueID: 2539453341
+    locked: 0
+  - name: Weapon
+    uniqueID: 3652906259
+    locked: 0
+  - name: Foreground
+    uniqueID: 2051110989
     locked: 0
